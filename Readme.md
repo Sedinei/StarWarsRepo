@@ -1,5 +1,5 @@
 # Star Wars Repo
-![](./nave_rebeldes.png)
+![Nave Rebelde](./nave_rebeldes.png)
 
 Este repositório serve de exemplo para o curso de Git e GitHub.
 <!--stackedit_data:
